@@ -114,7 +114,7 @@ entregas-otimizadas/
 
 ### Pré-requisitos
 
-- Java JDK 17
+- Java JDK 21
 - Docker e Docker Compose
 - Maven 3.8+
 - Conta no Docker Hub (para CI/CD)
@@ -123,7 +123,7 @@ entregas-otimizadas/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/entregas-otimizadas.git
+git clone https://github.com/SdneyFernandes/entregas-otimizadas.git
 cd entregas-otimizadas
 ```
 
@@ -185,8 +185,8 @@ Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICE
 Para dúvidas ou sugestões, entre em contato:
 
 - Email: fsidney987@gmail.com
-- LinkedIn: [Sdney Fernandes](www.linkedin.com/in/sdney-da-encarnação-pereira-fernandes)
+- LinkedIn: (www.linkedin.com/in/sdney-da-encarnação-pereira-fernandes)
 
 ---
 
-**Desenvolvido com ❤️ por Sdney Fernandes ** - **2025**
+Desenvolvido com ❤️ por [Sdney Fernandes] - 2025
